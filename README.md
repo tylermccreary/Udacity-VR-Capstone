@@ -5,6 +5,14 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 ## Versions
 - Unity 2018.1.0b13
 
+## Instructions
+- Clone Repository
+- Import Viking Village from the link
+- Import the SteamVR Plugin for Unity
+- Add all of the Scenes to the build settings.
+- Navigate to the VikingMenu Scene.
+- Play the scene in the editor or run a build.
+
 #Sources
 - Viking Village: https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-29140
 - Goal Horn Audio: https://freesound.org/people/santino_c/sounds/170826/
